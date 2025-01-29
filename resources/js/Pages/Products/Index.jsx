@@ -1,5 +1,3 @@
-// resources/js/Pages/Products/Index.jsx
-
 import { Head } from '@inertiajs/react';
 import AuthenticatedLayout from '@/Layouts/AuthenticatedLayout';
 
